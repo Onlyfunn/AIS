@@ -1,0 +1,16 @@
+<table class="my-table">
+  <tr>
+    <th>Процессор</th>
+    <th>Оперативная память</th>
+    <th>Видеокарта</th>
+    <th>Габариты(см)</th>
+    <th>Цвет</th>
+  </tr>
+  <tr>
+    <td>AMD</td>
+    <td>Cruicial</td>
+    <td>Nvidia</td>
+    <td>40x80x50</td>
+    <td>Белый</td>
+  </tr>
+</table>
