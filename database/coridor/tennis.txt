@@ -1,0 +1,16 @@
+<table class="my-table">
+  <tr>
+    <th>Ширина(м)</th>
+    <th>Длина(м)</th>
+    <th>Высота(м)</th>
+    <th>Материал</th>
+    <th>Цвет</th>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>4</td>
+    <td>1,2</td>
+    <td>Дерево</td>
+    <td>Зеленый</td>
+  </tr>
+</table>
