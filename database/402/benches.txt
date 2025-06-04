@@ -1,0 +1,27 @@
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Ширина (м)</th>
+      <th>Длина (м)</th>
+      <th>Материал</th>
+      <th>Цвет</th>
+      <th>Масса (кг)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>0,6</td>
+      <td>Дерево</td>
+      <td>Коричневый</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>0,6</td>
+      <td>Дерево</td>
+      <td>Коричневый</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>

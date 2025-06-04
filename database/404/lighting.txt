@@ -1,0 +1,31 @@
+<table>
+  <thead>
+    <tr>
+      <th>Мощность ламп (Вт/м<sup>2</sup>)</th>
+      <th>Цветовая температура</th>
+      <th>Ширина лампы (см)</th>
+      <th>Длина лампы (см)</th>
+      <th>Материал корпуса</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 17 identical lighting fixtures -->
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+    <tr><td>220</td><td>Теплый</td><td>60</td><td>60</td><td>Пластик</td></tr>
+  </tbody>
+</table>

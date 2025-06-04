@@ -1,0 +1,20 @@
+<table border="1">
+  <thead>
+    <tr>
+      <th>Площадь (м)</th>
+      <th>Периметр (м)</th>
+      <th>Материал</th>
+      <th>Цвет</th>
+      <th>Класс износостойкости</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48</td>
+      <td>28</td>
+      <td>Ламинат</td>
+      <td>Коричневый</td>
+      <td>31</td>
+    </tr>
+  </tbody>
+</table>
